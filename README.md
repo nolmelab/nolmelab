@@ -9,9 +9,9 @@ nolmelab은 노는 것처럼 일하면서 사람들이 놀이처럼 누릴 수 �
 
 - [러스트 구글 교육 추가 번역과 주석](https://nolmelab.gitbook.io/rust-course)
 - [러스트 비동기 프로그래밍 번역](https://nolmelab.gitbook.io/rust-async)
+- [C++ 프로그래머를 위한 러스트 번역](https://nolmelab.gitbook.io/rust-cplus)
 
 앞으로 추가할 내용은 다음과 같습니다. 
-- C++ 프로그래머를 위한 러스트 번역과 주석 
 - 러스트의 비동기 런타임인 토키오에 대한 정리 
 - 러스트 토키오를 활용한 백엔드 구축 
 - 러스트 토키오로 만드는 게임 서버 (제품을 포함) 
