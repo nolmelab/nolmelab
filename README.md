@@ -1,2 +1,2 @@
-[@see-math]([https://youtube.com/@see-math)
+(@see-math)[https://youtube.com/@see-math]
 
